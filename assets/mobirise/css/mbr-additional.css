@@ -1402,6 +1402,10 @@ body {
 .cid-rb8pEjlmG6 .card {
   padding-bottom: 1.5rem;
 }
+.cid-rb8pEjlmG6 .mbr-text,
+.cid-rb8pEjlmG6 .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rbcO7r27i8 {
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
