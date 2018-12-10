@@ -1433,11 +1433,13 @@ body {
 .cid-rboAAvZJMq {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1269.jpg");
 }
 .cid-rboAAvZJMq .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  text-align: left;
+  color: #ffffff;
 }
 .cid-rboAAvZJMq .mbr-author-name {
   font-weight: bold;
