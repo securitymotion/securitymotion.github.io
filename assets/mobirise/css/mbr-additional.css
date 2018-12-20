@@ -1376,6 +1376,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .card-wrapper {
+    flex: auto!important;
+  }
+}
 .cid-rbcO7r27i8 {
   background-image: url("../../../assets/images/mbr-1920x1079.jpg");
 }
@@ -2832,7 +2837,7 @@ body {
 .cid-rbcoLJlgD6 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rbcoLJlgD6 h2 {
   text-align: left;
